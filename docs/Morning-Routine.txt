@@ -1,0 +1,37 @@
+SNOOPY MORNING ROUTINE — MAC SCREEN SAVER
+
+INSTALL
+1. Unzip the shared ZIP file.
+2. Double-click Snoopy Morning Routine.saver.
+3. If asked, install for the current user.
+4. On macOS Tahoe: open System Settings > Wallpaper > Screen Saver.
+   On earlier macOS versions: open System Settings > Screen Saver.
+5. Under Other, choose Snoopy Morning Routine (click Show All if needed).
+6. Set a Start Screen Saver delay if you want it to start automatically.
+
+If the installer does not open, in Finder choose Go > Go to Folder,
+enter ~/Library/Screen Savers/ and copy the .saver there.
+Create the Screen Savers folder inside your Library if it does not exist.
+Reopen System Settings and select the screen saver.
+
+ABOUT
+• 30-second silent loop, with a brief fade at the loop boundary.
+• 5120 × 2880 video, upscaled from a 1080p source.
+• Fills the display by cropping edges as needed, without stretching.
+• Video is included; no separate download or Internet connection is needed.
+• Includes Apple silicon and Intel binaries; requires macOS 13 or later.
+• Playback was tested on Apple silicon with macOS 26.7.
+  Intel and other macOS versions have not been tested.
+• Custom locally built screen saver; not Apple-notarized. macOS may
+  require security approval before installation or playback.
+• Not an official Apple app. Snoopy/Peanuts and video rights belong
+  to their respective owners.
+
+UPDATING
+Replace the previous copy, then quit System Settings and reopen it.
+If an old version or black bars persist, log out and back in to reload
+macOS's screen saver process.
+
+UNINSTALL
+In Finder > Go > Go to Folder, enter ~/Library/Screen Savers/
+and move Snoopy Morning Routine.saver to Trash.

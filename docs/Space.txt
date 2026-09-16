@@ -1,0 +1,32 @@
+SNOOPY SPACE — MAC SCREEN SAVER
+
+INSTALL
+1. Unzip Snoopy Space - Share.zip.
+2. Double-click Snoopy Space.saver and install for the current user.
+3. Open System Settings > Wallpaper > Screen Saver on macOS Tahoe,
+   or System Settings > Screen Saver on earlier versions.
+4. Under Other, click Show All and choose Snoopy Space.
+5. Choose a Start Screen Saver delay to enable automatic playback.
+
+If the installer does not open, use Finder > Go > Go to Folder and
+enter ~/Library/Screen Savers/. Copy Snoopy Space.saver into it.
+Create the Screen Savers folder inside your Library if needed.
+Quit and reopen System Settings to refresh the list.
+
+FEATURES
+Full video, approximately 35 seconds; silent looping playback.
+5K (5120 x 2880), upscaled from the original 1080p source.
+Fills the display, cropping edges as needed without stretching.
+Includes a Snoopy thumbnail and the video; no Internet needed.
+Installs separately from Snoopy Morning Routine.
+
+COMPATIBILITY
+Apple silicon and Intel binaries included. Requires macOS 13 or later.
+Tested on this Apple silicon Mac with macOS 26.7; Intel and other
+macOS versions have not been tested.
+Locally built and not Apple-notarized; macOS may require security approval.
+Not an official Apple app. Video and character rights remain with
+ their respective owners.
+
+UNINSTALL
+Move ~/Library/Screen Savers/Snoopy Space.saver to Trash.
