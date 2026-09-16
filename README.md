@@ -56,6 +56,10 @@ The embedded videos can be obtained from the downloaded `.saver` packages with F
 
 The script builds both architectures, includes thumbnails, and ad-hoc signs the bundles. Results appear in `build/`. It preserves the supplied videos as-is and does not upscale or trim them.
 
+## Signing a distribution release
+
+See [Developer ID signing and notarization](docs/SIGNING.md) for the release workflow. The v1.0.0 ZIPs remain ad-hoc signed until a new verified release is published.
+
 ## Credits and rights
 
 This is an unofficial personal screen saver project, not an Apple or Peanuts product. Snoopy/Peanuts characters, Apple branding, and video content belong to their respective rights holders. This repository does not grant rights to that third-party content.
